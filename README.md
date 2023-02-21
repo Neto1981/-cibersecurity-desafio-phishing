@@ -24,4 +24,6 @@ Obtendo o endereço da máquina: ifconfig
 
 URL para clone: http://www.facebook.com
 
+Resutados
+
 ![Screenshot_2023-02-21_16-42-52](https://user-images.githubusercontent.com/112073927/220470193-dd493dfb-8b47-49bf-9267-5b9d9327b581.png)
